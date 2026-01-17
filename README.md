@@ -9,7 +9,7 @@ __________      ___.           __   _________                                   
 
 ### I am a Systems and Electrical Engineer who is currently studying Software
 
-- 🌱 I'm currently learning **Python** 🐍 **and** **Kubernetes** ☸️
+- 🧠 I'm currently learning **Python** 🐍 **and** **Kubernetes** ☸️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
