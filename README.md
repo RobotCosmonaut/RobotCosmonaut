@@ -1,9 +1,11 @@
+```
 RRRRRR         bb             tt     CCCCC                                                          tt    
 RR   RR  oooo  bb       oooo  tt    CC    C  oooo   sss  mm mm mmmm   oooo  nn nnn    aa aa uu   uu tt    
 RRRRRR  oo  oo bbbbbb  oo  oo tttt  CC      oo  oo s     mmm  mm  mm oo  oo nnn  nn  aa aaa uu   uu tttt  
 RR  RR  oo  oo bb   bb oo  oo tt    CC    C oo  oo  sss  mmm  mm  mm oo  oo nn   nn aa  aaa uu   uu tt    
 RR   RR  oooo  bbbbbb   oooo   tttt  CCCCC   oooo      s mmm  mm  mm  oooo  nn   nn  aaa aa  uuuu u  tttt 
                                                     sss                                                   
+```
 
 ### I am a Systems and Electrical Engineer who is currently studying Software
 
